@@ -2,13 +2,13 @@
 title: Phobos
 header-img: img/home-bg.jpg
 email: phobosacademy@gmail.com
-copyright_name: Your/Project/Phobos
+copyright_name: Phobos
 description: "I can't teach people. I only make them think"
 baseurl: ""
 url: "phobosacademy.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
+twitter_username: 
+github_username:  PhobosAcademy
+facebook_username:  
 email_username:  phobosacademy@gmail.com
 
 # Google Analytics
@@ -16,7 +16,7 @@ email_username:  phobosacademy@gmail.com
 # google_tracking_id:
 
 # Build settings
-markdown: markdown
+markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
